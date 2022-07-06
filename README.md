@@ -1,5 +1,5 @@
 # Gussing Game! 
-
+##### Author: Zixuan YU
 ##### This for for the finanl project for JHU Coursera course Unix Workbench
 
 ##### The GitHub repository should have only the following three files:
